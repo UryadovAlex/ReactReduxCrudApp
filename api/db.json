@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Awesome stream",
+      "id": 1
+    },
+    {
+      "description": "Cool one",
+      "title": "Second Stream",
+      "id": 2
+    },
+    {
+      "title": "New Stream",
+      "description": "Edited",
+      "id": 3
+    },
+    {
+      "title": "New Stream",
+      "description": "PATCH",
+      "userId": "107048913566926477894",
+      "id": 6
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "Germany",
+      "userId": "107048913566926477894",
+      "id": 7
+    }
+  ]
+}
